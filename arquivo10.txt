@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Lorem ipsun100
+=======
+Editado por Mauricio, posto alguma coisa por aqui.
+>>>>>>> c8388e88df2ab49dc0ae9ab6967924086d7053e2
 Qualquer coisa
 Lorem ipsun10
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni laudantium, porro officia debitis distinctio in recusandae dicta sed, nostrum maiores inventore qui fugiat eos ullam quis. Rem corporis suscipit dicta tempora velit voluptatem magni magnam quos mollitia placeat molestias ex, ad, similique doloribus quo dolor incidunt quasi obcaecati consequuntur consequatur?
